@@ -11,4 +11,3 @@ In this HTML file, we have many elements that we will access with different docu
 Expected Output:
 
 
-![image](https://user-images.githubusercontent.com/76276545/205432600-02e26886-7d91-41a1-bc9f-68d095882f04.png)
