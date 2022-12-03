@@ -1,0 +1,14 @@
+# Accessing-Elements
+In this HTML file, we have many elements that we will access with different document methods. When we render the file in a browser, it will look similar to this:
+Accessing Elements
+In this HTML file, we have many elements that we will access with different document methods. When we render the file in a browser, it will look similar to this:
+
+
+1. Now you have to access a single element in the DOM by its unique ID and change the border property to green.
+2. We have two elements with a demo class in the given file. Access elements and put them in a variable. for accessing the element you can't use getElementsByClassName.
+3. You have now selected every element on the page that has a demo class and changed the border property to blue.
+4. You must change the second text element to "Second Elements of Class".
+Expected Output:
+
+
+![image](https://user-images.githubusercontent.com/76276545/205432600-02e26886-7d91-41a1-bc9f-68d095882f04.png)
